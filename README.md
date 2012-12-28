@@ -23,7 +23,7 @@ To attach the stepper motor to the camera using the toothed belt I made a simple
 
 Lastly, I had quite a struggle to get the motor working correctly. A combination of incorrect wiring and a lack of understanding about how the motor windings were supposed to be energised (Ingo Rammers code is very sophisticated).  The diagram below may help clarify things and shows the connections from the Sparkfun stepper motor through the L6226 to the Arduino Uno and the mapping of the Arduino output pins, the ATMega counter registers and the ATMega output pins.
 
-![Diagram]()
+![Diagram](https://raw.github.com/alancairns/followfocus/master/Motor%20Connections.jpg)
 
 ## License
 
