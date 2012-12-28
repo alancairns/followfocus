@@ -27,4 +27,5 @@ Lastly, I had quite a struggle to get the motor working correctly. A combination
 
 ## License
 
-[Creative Common 3.0, Attribution, Share Alike, Non-Commercial](http://creativecommons.org/licenses/by-nc-sa/3.0/). Original author [Ingo Rammer](http://weblogs.thinktecture.com/)digitalfollowfocus/)
+[Creative Common 3.0, Attribution, Share Alike, Non-Commercial](http://creativecommons.org/licenses/by-nc-sa/3.0/).  
+Original author [Ingo Rammer](http://weblogs.thinktecture.com/digitalfollowfocus/)
